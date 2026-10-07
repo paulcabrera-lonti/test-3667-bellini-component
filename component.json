@@ -1,0 +1,23 @@
+{
+  "type": "component",
+  "name": "test-3667",
+  "icon": null,
+  "iconType": null,
+  "children": [
+    {
+      "name": "subcomp",
+      "nodeName": "subcomp",
+      "classList": [],
+      "children": [],
+      "type": "custom-component",
+      "ownerId": "6ac592ba1e1b29553a236411",
+      "ownerType": "component",
+      "expressions": []
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "directories": null
+}
