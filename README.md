@@ -1,0 +1,1 @@
+# test-3667-bellini-component
